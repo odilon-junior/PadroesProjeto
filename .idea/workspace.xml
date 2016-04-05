@@ -23,26 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TemplateDeImpostoCondicional.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TemplateDeImpostoCondicional.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/templateMethod/TemplateDeImpostoCondicional.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.3126551">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculaTaxaImpostoTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/br/com/patterns/templateMethod/CalculaTaxaImpostoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6873449">
-              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -105,10 +91,10 @@
         <option value="$PROJECT_DIR$/src/test/br/com/patterns/chainOffResponsibility/CalcularDescontoOrcamento.java" />
         <option value="$PROJECT_DIR$/src/main/br/com/patterns/chainOffResponsibility/domain/Orcamento.java" />
         <option value="$PROJECT_DIR$/src/test/br/com/patterns/chainOffResponsibility/CalcularDescontoOrcamentoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/br/com/patterns/templateMethod/TemplateDeImpostoCondicional.java" />
         <option value="$PROJECT_DIR$/src/main/br/com/patterns/templateMethod/Orcamento.java" />
         <option value="$PROJECT_DIR$/src/main/br/com/patterns/templateMethod/ImpostoY.java" />
         <option value="$PROJECT_DIR$/src/test/br/com/patterns/templateMethod/CalculaTaxaImpostoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/br/com/patterns/templateMethod/TemplateDeImpostoCondicional.java" />
       </list>
     </option>
   </component>
@@ -702,12 +688,12 @@
       <option name="number" value="Default" />
       <updated>1459772682994</updated>
       <workItem from="1459772686439" duration="1021000" />
-      <workItem from="1459775246056" duration="13519000" />
+      <workItem from="1459775246056" duration="14186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14540000" />
+    <option name="totallyTimeSpent" value="15207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="24" width="1311" height="744" extended-state="6" />
@@ -731,7 +717,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24942791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24942791" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32763976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32763976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1025,23 +1011,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/templateMethod/TemplateDeImpostoCondicional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/br/com/patterns/templateMethod/CalculaTaxaImpostoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6873449">
-          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.73200995">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#591#592#0" expanded="true" />
             <element signature="e#632#633#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/templateMethod/TemplateDeImpostoCondicional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3126551">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

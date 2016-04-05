@@ -5,7 +5,7 @@ package main.br.com.patterns.templateMethod;
  */
 public abstract class TemplateDeImpostoCondicional {
 
-    public double calcula(Orcamento orcamento) {
+    public final double calcula(Orcamento orcamento) {
 
         if (deveUsarMaximaTaxacao(orcamento)) {
             return maximaTaxacao(orcamento);
