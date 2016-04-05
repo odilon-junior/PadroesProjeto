@@ -3,7 +3,6 @@ package test.br.com.patterns.chainOffResponsibility;
 import main.br.com.patterns.chainOffResponsibility.domain.Item;
 import main.br.com.patterns.chainOffResponsibility.domain.Orcamento;
 import org.junit.After;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
