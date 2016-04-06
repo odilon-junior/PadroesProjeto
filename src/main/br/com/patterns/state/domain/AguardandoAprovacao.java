@@ -1,6 +1,7 @@
-package main.br.com.patterns.state.service;
+package main.br.com.patterns.state.domain;
 
-import main.br.com.patterns.state.domain.Orcamento;
+
+import main.br.com.patterns.state.service.EstadoOrcamento;
 
 /**
  * Created by odilon on 06/04/16.

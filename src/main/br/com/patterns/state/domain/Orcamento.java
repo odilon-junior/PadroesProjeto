@@ -1,6 +1,5 @@
 package main.br.com.patterns.state.domain;
 
-import main.br.com.patterns.state.service.AguardandoAprovacao;
 import main.br.com.patterns.state.service.EstadoOrcamento;
 
 /**

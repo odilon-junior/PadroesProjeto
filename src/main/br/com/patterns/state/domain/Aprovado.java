@@ -1,14 +1,14 @@
-package main.br.com.patterns.state.service;
+package main.br.com.patterns.state.domain;
 
-import main.br.com.patterns.state.domain.Orcamento;
+import main.br.com.patterns.state.service.EstadoOrcamento;
 
 /**
  * Created by odilon on 06/04/16.
  */
-public class Finalizado implements EstadoOrcamento {
+public class Aprovado implements EstadoOrcamento {
     @Override
     public double calcula(Orcamento orcamento) {
-        return 0;
+        return orcamento.getValor() * 0.05;
     }
 
     @Override
@@ -23,6 +23,6 @@ public class Finalizado implements EstadoOrcamento {
 
     @Override
     public void finaliza(Orcamento orcamento) {
-        throw new RuntimeException("Orçamento esta em estado inconsistente");
+        orcamento.estadoOrcamento = new Finalizado();
     }
 }
