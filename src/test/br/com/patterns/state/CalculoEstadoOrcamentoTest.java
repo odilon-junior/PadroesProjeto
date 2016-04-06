@@ -63,7 +63,7 @@ public class CalculoEstadoOrcamentoTest {
 
     @Test(expected = RuntimeException.class)
     public void deveLancarExcecaoQuandoTentarFinalizarOrcamentoAguardandoAprovacao() {
-        orcamento.aprovar();
+        orcamento.finalizar();
     }
 
     @Test(expected = RuntimeException.class)
