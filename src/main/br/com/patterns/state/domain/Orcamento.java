@@ -1,17 +1,18 @@
-package main.br.com.patterns.state;
+package main.br.com.patterns.state.domain;
+
+import main.br.com.patterns.state.service.AguardandoAprovacao;
+import main.br.com.patterns.state.service.EstadoOrcamento;
 
 /**
  * Created by odilon on 06/04/16.
  */
 public class Orcamento {
-
     private double valor;
     protected EstadoOrcamento estadoOrcamento;
 
     public Orcamento(double valor) {
         this.valor = valor;
         this.estadoOrcamento = new AguardandoAprovacao();
-
     }
 
     public double aplicaDesconto() {

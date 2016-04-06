@@ -1,6 +1,6 @@
 package test.br.com.patterns.state;
 
-import main.br.com.patterns.state.Orcamento;
+import main.br.com.patterns.state.domain.Orcamento;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
