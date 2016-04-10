@@ -23,103 +23,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Orcamento.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/domain/Orcamento.java">
+      <file leaf-file-name="NFeBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/builder/NFeBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculoEstadoOrcamentoTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/br/com/patterns/state/CalculoEstadoOrcamentoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334">
-              <caret line="56" column="17" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#1721#1722#0" expanded="true" />
-                <element signature="e#1758#1759#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AguardandoAprovacao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/domain/AguardandoAprovacao.java">
+      <file leaf-file-name="NFe.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/builder/dominio/NFe.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reprovado.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/domain/Reprovado.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-              <folding>
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Aprovado.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/domain/Aprovado.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-              <folding>
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EstadoOrcamento.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/service/EstadoOrcamento.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CriaNFeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/br/com/patterns/builder/CriaNFeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33582088">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,6 +131,12 @@
         <option value="$PROJECT_DIR$/src/main/br/com/patterns/state/domain/AguardandoAprovacao.java" />
         <option value="$PROJECT_DIR$/src/main/br/com/patterns/state/domain/Aprovado.java" />
         <option value="$PROJECT_DIR$/src/test/br/com/patterns/state/CalculoEstadoOrcamentoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/br/com/patterns/builder/Imposto.java" />
+        <option value="$PROJECT_DIR$/src/main/br/com/patterns/builder/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/br/com/patterns/builder/NFe.java" />
+        <option value="$PROJECT_DIR$/src/main/br/com/patterns/builder/dominio/NFe.java" />
+        <option value="$PROJECT_DIR$/src/main/br/com/patterns/builder/NFeBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/br/com/patterns/builder/CriaNFeTest.java" />
       </list>
     </option>
   </component>
@@ -240,6 +183,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -316,7 +262,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="decorator" />
+              <option name="myItemId" value="builder" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -335,66 +281,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Padroes-Projeto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Padroes-Projeto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="state" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Padroes-Projeto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Padroes-Projeto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="state" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,10 +303,11 @@
       <recent name="main.br.com.patterns.decorator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/br/com/patterns/builder/dominio" />
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculoEstadoOrcamentoTest.deveRetornarZeroOrcamentoReprovado">
+  <component name="RunManager" selected="JUnit.CriaNFeTest.deveCriarNFe">
     <configuration default="false" name="CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarAprovarOrcamentoFinalizado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -468,32 +360,6 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarAprovarOrcamentoReprovado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test.br.com.patterns.state.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Padroes-Projeto" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test.br.com.patterns.state" />
-      <option name="MAIN_CLASS_NAME" value="test.br.com.patterns.state.CalculoEstadoOrcamentoTest" />
-      <option name="METHOD_NAME" value="deveLancarExcecaoQuandoTentarAprovarOrcamentoReprovado" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="false" name="CalculoEstadoOrcamentoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -533,6 +399,32 @@
       <option name="PACKAGE_NAME" value="test.br.com.patterns.state" />
       <option name="MAIN_CLASS_NAME" value="test.br.com.patterns.state.CalculoEstadoOrcamentoTest" />
       <option name="METHOD_NAME" value="deveLancarExcecaoQuandoTentarFinalizarOrcamentoAguardandoAprovacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CriaNFeTest.deveCriarNFe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.patterns.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Padroes-Projeto" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="test.br.com.patterns.builder" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.patterns.builder.CriaNFeTest" />
+      <option name="METHOD_NAME" value="deveCriarNFe" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -798,17 +690,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarAprovarOrcamentoFinalizado" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveRetornarZeroOrcamentoReprovado" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarAprovarOrcamentoReprovado" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarFinalizarOrcamentoAguardandoAprovacao" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarFinalizarOrcamentoAguardandoAprovacao" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CriaNFeTest.deveCriarNFe" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveRetornarZeroOrcamentoReprovado" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarFinalizarOrcamentoAguardandoAprovacao" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarAprovarOrcamentoFinalizado" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarAprovarOrcamentoReprovado" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CriaNFeTest.deveCriarNFe" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveRetornarZeroOrcamentoReprovado" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarFinalizarOrcamentoAguardandoAprovacao" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculoEstadoOrcamentoTest.deveLancarExcecaoQuandoTentarAprovarOrcamentoFinalizado" />
       </list>
     </recent_temporary>
   </component>
@@ -824,11 +716,12 @@
       <updated>1459772682994</updated>
       <workItem from="1459772686439" duration="1021000" />
       <workItem from="1459775246056" duration="29929000" />
+      <workItem from="1460121652962" duration="4864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30950000" />
+    <option name="totallyTimeSpent" value="35814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="24" width="1311" height="744" extended-state="6" />
@@ -839,25 +732,25 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.49733028" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4083851" sideWeight="0.6231884" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4083851" sideWeight="0.3768116" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4083851" sideWeight="0.6193745" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32919255" sideWeight="0.4187643" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.49733028" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32763976" sideWeight="0.49427918" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24942791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24942791" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.58504957" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32919255" sideWeight="0.5812357" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24942791" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -936,13 +829,63 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/domain/Orcamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/patterns/state/CalculoEstadoOrcamentoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/domain/AguardandoAprovacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/domain/Reprovado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/domain/Aprovado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/state/service/EstadoOrcamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/java/util/Map.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43431637">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#6527#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -951,7 +894,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#124311#0" expanded="true" />
+            <element signature="e#0#124311#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -961,8 +904,8 @@
         <state vertical-scroll-proportion="0.31343284">
           <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
           <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="false" />
+            <element signature="e#272#273#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -988,8 +931,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="56" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="56" />
           <folding>
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -999,11 +942,11 @@
         <state vertical-scroll-proportion="0.2238806">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#386#387#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#460#461#0" expanded="false" />
+            <element signature="e#490#491#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1012,7 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="4396" column="29" selection-start-line="4396" selection-start-column="29" selection-end-line="4396" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1020,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33226836">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1028,10 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5263158">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="e#283#284#0" expanded="false" />
-            <element signature="e#307#308#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1051,9 +988,9 @@
         <state vertical-scroll-proportion="0.7368421">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1070,14 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42857143">
           <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,9 +1015,9 @@
         <state vertical-scroll-proportion="0.73200995">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+            <element signature="e#632#633#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1097,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1106,7 +1034,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1116,7 +1044,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1125,7 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22332506">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1134,12 +1061,12 @@
         <state vertical-scroll-proportion="0.4217877">
           <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="false" />
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#264#265#0" expanded="false" />
+            <element signature="e#299#300#0" expanded="false" />
+            <element signature="e#364#365#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1148,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1173,7 +1099,7 @@
         <state vertical-scroll-proportion="0.5684039">
           <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1182,9 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9413681">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#4476#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1192,7 +1115,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23452769">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,7 +1122,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1217,7 +1138,7 @@
         <state vertical-scroll-proportion="0.5977654">
           <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1226,7 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1234,7 +1154,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31016043">
           <caret line="156" column="0" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,19 +1161,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1262,16 +1169,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.373057">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1279,16 +1176,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1296,7 +1184,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.034483">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1304,7 +1191,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41925466">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1312,14 +1198,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1328,26 +1207,63 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/br/com/patterns/state/CalculoEstadoOrcamentoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state vertical-scroll-proportion="0.0056980057">
           <caret line="56" column="17" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#1721#1722#0" expanded="true" />
-            <element signature="e#1758#1759#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/builder/dominio/Imposto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6923077">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/builder/dominio/NFe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/br/com/patterns/builder/NFeBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/br/com/patterns/builder/CriaNFeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33582088">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
